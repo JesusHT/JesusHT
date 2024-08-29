@@ -10,6 +10,7 @@ I’m a Software Engineering student with a strong interest in web development, 
 
 ### 🌐 Connect with Me
 <img src="./icons/Github.svg" width="24"> **GitHub:** [JesusHT](https://github.com/JesusHT)
+
 <img src="./icons/LinkedIn.svg" width="24"> **LinkedIn:** [JesusHT](https://www.linkedin.com/in/jesus-emmanuel-hernandez-torres-821162253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!--
