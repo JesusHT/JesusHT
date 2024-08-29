@@ -9,8 +9,6 @@ I’m a Software Engineering student with a strong interest in web development, 
 <a href="#"><img alt="JesusHT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHT&layout=donut&hide_title=true&bg_color=1F222E&icon_color=F8D866&hide_border=true&text_color=FFFFFF" height="192px"/></a>
 
 ### 🌐 Connect with Me
-<img src="./icons/Github.svg" width="24"> **GitHub:** [JesusHT](https://github.com/JesusHT)
-
 <img src="./icons/LinkedIn.svg" width="24"> **LinkedIn:** [JesusHT](https://www.linkedin.com/in/jesus-emmanuel-hernandez-torres-821162253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!--
