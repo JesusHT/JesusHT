@@ -6,10 +6,7 @@ I’m a Software Engineering student with a strong interest in web development, 
 
 ### 📊 Most Used Languages
 
-<a href="#">
-  <img alt="JesusHT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/   username=JesusHT&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=1F222E&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
-</a>
-
+<a href="#"><img alt="JesusHT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHT&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=1F222E&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
 ### 🌐 Connect with Me
 - **GitHub:** [JesusHT](https://github.com/JesusHT)
