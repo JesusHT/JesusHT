@@ -3,8 +3,13 @@
 I’m a Software Engineering student with a strong interest in web development, particularly in the **backend** area.
 
 <!-- most used languages -->
+
+## 📊 Most Used Languages
+
 <a href="#"><img alt="JesusHT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusHT&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
+
+## 🌐 Connect with Me
 - **GitHub:** [JesusHT](https://github.com/JesusHT)
 - **LinkedIn:** [Jesus Emmanuel Hernandez Torres](https://www.linkedin.com/in/jesus-emmanuel-hernandez-torres-821162253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
